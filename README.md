@@ -6,5 +6,6 @@ If you can not read Chinese, this repo is totally useless to you.
 
 ```bash
 python3 tiaoche.py <your_unity_project_path>
+```
 
 特别感谢 ChatGPT 的支持，所有代码均由其生成，甚至本 README 也是它写的。
